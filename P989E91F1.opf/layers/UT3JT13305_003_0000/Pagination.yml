@@ -1,0 +1,100 @@
+id: 698853d54b624ac49588f45674cbabbc
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  3119434d01c84f6da2022ee97f2b3ca7:
+    span:
+      start: 7154
+      end: 8608
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP9457C79122AEA112
+  d38c4fa8b3a64c36b80b96df48184e57:
+    span:
+      start: 0
+      end: 1459
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP1C841CCE1BF4BA75
+  7c1ed8d6048447b490b57fd421f373b7:
+    span:
+      start: 2888
+      end: 4298
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPF65994A0E497E592
+  24f76bb5acc640cba633128f48c46539:
+    span:
+      start: 12902
+      end: 14369
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP7B7B6D78271404BC
+  7f661e9fea8b45b095f905b7183a6cae:
+    span:
+      start: 11484
+      end: 12900
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP1EF45A6AE34B2D44
+  6475f420ae364e4aa48c9c5e47bc08b5:
+    span:
+      start: 4300
+      end: 5720
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP85989F7CA07769B0
+  89221ed67ddb49b599cdd8e933bbe48c:
+    span:
+      start: 1461
+      end: 2886
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP1656908612A5C0E6
+  92b4237a80e4480eab19382a05b29749:
+    span:
+      start: 10043
+      end: 11482
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP4A610D96B5A2A21D
+  c8d082b71fcf43c4a42ac89cffd204f6:
+    span:
+      start: 8610
+      end: 10041
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP1624DC93F789FC75
+  7094104623ba4699b59a3fd2bf38eca1:
+    span:
+      start: 15820
+      end: 16639
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP5C1EF3AB119296AE
+  21d52a12c63a429dab46e46fb3bdaf99:
+    span:
+      start: 5722
+      end: 7152
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP1E027CB85A8553D7
+  fb6d8b4a9fb04185a1f98af02a503479:
+    span:
+      start: 14371
+      end: 15818
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP1A82C30E99C970F8
